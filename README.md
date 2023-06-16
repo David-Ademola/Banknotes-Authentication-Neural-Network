@@ -55,4 +55,4 @@ After training the model, the script evaluates its performance on the testing da
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/David-Ademola/Banknotes-Authentication-Neural-Network/blob/main/LICENSE) file for more information.
