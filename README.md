@@ -8,8 +8,8 @@ Before running the code, make sure you have the following dependencies installed
 
 - Python (version 3.6 or higher)
 - TensorFlow (version 2.0 or higher)
-- scikit-learn (version 0.24 or higher)
-- pandas (version 1.2 or higher)
+- Scikit-Learn (version 0.24 or higher)
+- Pandas (version 1.2 or higher)
 
 ## Dataset
 
