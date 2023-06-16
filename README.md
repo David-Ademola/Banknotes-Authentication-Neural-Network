@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file for the code you provided:
-
 # Banknote Authentication Neural Network
 
 This project demonstrates a neural network model for banknote authentication using TensorFlow. The model is trained on a dataset of banknote features and labels, and it predicts whether a given banknote is genuine or counterfeit.
